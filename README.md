@@ -14,4 +14,4 @@ Course Outline: https://believed-bongo-319.notion.site/CCDEPLRL-d9ba385d265a46c3
 | Week 7   | |
 | Week 8 and 9 - Deep Sequence Modeling | Recurrent Neural Networks |
 | Week 10 - Self Attention with Neural Networks | Intuition and Application |
-| Week 11, 12 and 13 - Deep Generative Modeling |  |
+| Week 11, 12 and 13 - Deep Generative Modeling | Diffusion and Large Language Models |
