@@ -2,7 +2,7 @@
 
 This repository contains all of the python code implementations for each topic in the course outline for Deep Learning 
 
-Course Outline: https://believed-bongo-319.notion.site/CCALCOMP-446b0bb09b96451982dfbb9ef00cfcef?pvs=4
+Course Outline: https://believed-bongo-319.notion.site/CCDEPLRL-d9ba385d265a46c3b5c089912eeea190?pvs=4
 
 | Folder Name | Topic |
 | :---         |     :---:      |       
