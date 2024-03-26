@@ -6,14 +6,12 @@ Course Outline: https://believed-bongo-319.notion.site/CCDEPLRL-d9ba385d265a46c3
 
 | Folder Name | Topic |
 | :---         |     :---:      |       
-| week_1   | |
-| week_2   | |
-| week_3   | |
-| week_4   | |
-| week_5  | |
-| week_6-7 | |
-| week_8   | |
-| week_9   | |
-| week_10   | |
-| week_11   | |
-| week_12   | |
+| Week 1 - Introduction to Tensorflow and Tensorflow lite   | |
+| Week 2 - Introduction to Deep Learning   | |
+| Week 3 - Training Neural Networks   | |
+| Week 4 and 5 - Neural Networks in Practice   | |
+| Week 6 - What Computers "See"   | |
+| Week 7   | |
+| Week 8 and 9 - Deep Sequence Modeling | |
+| Week 10   | Self Attention with Neural Networks|
+| Week 11, 12 and 13 | Deep Generative Modeling |
