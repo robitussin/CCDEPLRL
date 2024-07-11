@@ -6,12 +6,10 @@ Course Outline: https://believed-bongo-319.notion.site/CCDEPLRL-d9ba385d265a46c3
 
 | Folder Name | Topic |
 | :---         |     :---:      |       
-| Week 1 - Introduction to Tensorflow and Tensorflow lite   |  |
-| Week 2 - Introduction to Deep Learning   | The perceptron, Building Neural Networks |
-| Week 3 - Training Neural Networks   | Loss Optimization, Gradient Descent, Backpropagation |
-| Week 4 and 5 - Neural Networks in Practice   | Mini-batches and Overfitting |
-| Week 6 - What Computers "See"   | Convolution and Convolutional Neural Networks |
-| Week 7   | |
-| Week 8 and 9 - Deep Sequence Modeling | Recurrent Neural Networks |
-| Week 10 - Self Attention with Neural Networks | Intuition and Application |
-| Week 11, 12 and 13 - Deep Generative Modeling | Diffusion and Large Language Models |
+| 1 - Introduction to Deep Learning   | The perceptron, Building Neural Networks |
+| 2 - Training Neural Networks   | Loss Optimization, Gradient Descent, Backpropagation |
+| 3 - Neural Networks in Practice  | Mini-batches and Overfitting |
+| 4 - What Computers "See"   | Convolution and Convolutional Neural Networks |
+| 5 - Deep Sequence Modeling | Recurrent Neural Networks |
+| 6 - Self Attention with Neural Networks | Attention in Neural Networks |
+| 7 - Deep Generative Modeling | Diffusion and Large Language Models |
